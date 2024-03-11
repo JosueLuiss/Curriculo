@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 600px;
+    height: 700px;
+    border: solid 1px black;
+    margin: auto;
+}
+
+.body{
+    background-color: rgb(160, 145, 103);
+    height: 100%;
+}
+
+header{
+    display: flex;
+}
+
+.foto-nome img{
+    border-radius: 100%;
+}
+
+.cor-foto{
+    background-color: rgb(143, 121, 92);
+}
+
+.cor{
+   width: 20px;
+}
+
+    .foto-nome .nome{
+        padding-top: 30px;
+        font-family: sans-serif ;
+    }
+
+    .foto-nome .nome p{
+        font-size: 20px;
+    }
+
+    section{
+        display: flex;
+        font-size: 20px;
+    }
+
+
+    .listas ul{
+        list-style: none;
+    }
+    
+    .listas .pessoal{
+        background-color:rgb(187, 166, 136) ;
+        padding: 10px;
+        padding-bottom: 0;
+        width: 80.4%;
+    }
+
+    .cor1{
+        width: 20px;
+    }
+
+    .listas1{
+            display: flex;
+    }
+
+    .listas1 .contato1{
+        background-color:rgb(187, 166, 136) ;
+        padding: 18.3px;
+    }
+
+    .listas1 ul{
+        list-style: none;
+    }
+
+    .listas .resumo{
+        text-align: left;
+        margin-left: -50px;
+        font-size: 15px;
+    }
+
+    .listas1 .experiencia{
+        font-size: 17px;
+    }
+
+    footer{
+        text-align: center;
+        padding: 10px;
+        border: solid 1px black;
+        background-color: antiquewhite;
+    }
+
+    footer p{
+        font-size: 20px;
+    }
+
+    .cor3{
+        width: 33.5%;
+        height: 31px;
+        background-color:rgb(187, 166, 136) ;
+    }
+
