@@ -1,0 +1,121 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    margin: 0 auto;
+    font-family: sans-serif;
+    width: 100%;
+    height: 650px;
+    border: 1px solid ;
+}
+
+.fita{
+    background-color: #800000;
+    width: 40%;
+    height: 100%;
+}
+
+.foto img{
+    width: 100%;
+    border-radius: 100%;
+    border: 5px black solid;
+    margin-top: 15%;
+}
+
+.nome h1{
+    position: relative;
+    left: 105%;
+    bottom: 120px;
+    font-size: 23px;
+    border-bottom: 1px solid black;
+}
+
+.informacoes{
+    position: relative;
+    bottom: 20px;
+    padding: 5%;
+}
+
+.informacoes h1{
+    font-size: 18px;
+    color: white;
+    margin-bottom: 5%;
+}
+
+.informacoes li{
+    color: white;
+    font-size: 12px;
+    margin-bottom: 10%;
+}
+
+.formacao h1{
+    color:black;
+    position: relative;
+    left: 110%;
+    bottom: 370px;
+    font-size: 17px;
+}
+
+.formacao li{
+    color: black;
+    position: relative;
+    left: 115%;
+    bottom: 370px;
+    font-size: 14px;
+}
+
+.objetivo{
+    color: black;
+    position: relative;
+    left: 110%;
+    bottom: 380px;
+}
+
+.objetivo h1{
+    font-size: 18px;
+}
+
+.objetivo p{
+    font-size: 14px;
+    margin-top: 5%;
+}
+
+.experiencia{
+    color: black;
+    position: relative;
+    left: 110%;
+    bottom: 360px;
+}
+
+.experiencia h1{
+    font-size: 17px;
+}
+
+.experiencia li{
+    font-size: 14px;
+    margin-top: 10%;
+}
+
+.resumo{
+    color: white;
+    position: relative;
+    bottom: 530px;
+    font-size: 100%;
+    padding: 5%;
+}
+
+.resumo h1{
+    font-size: 18px;
+}
+
+.resumo p{
+    font-size: 85%;
+    margin-top: 5%;
+}
+
+

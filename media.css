@@ -1,0 +1,257 @@
+@media (min-width:375px){
+
+    body{
+        height: 670px;
+    }
+
+    .resumo{
+        bottom: 505px
+    }
+}
+
+@media (min-width:580px){
+    body{
+        height: 900px;
+    }
+
+    .nome h1{
+        bottom: 200px;
+        font-size: 35px;
+    }
+
+    .informacoes h1{
+        font-size: 26px;
+    }
+
+    .informacoes li{
+        font-size: 16px;
+        margin-bottom: 5%;
+    }
+
+    .resumo{
+        bottom: 505px;
+    }
+
+    .resumo h1{
+        font-size: 22px;
+    }
+
+    .resumo p{
+        font-size: 18px;
+    }
+
+    .experiencia{
+        bottom: 340px;
+    }
+
+    .experiencia h1{
+        font-size: 22px;
+    }
+    
+    .experiencia li{
+        font-size: 18px;
+    }
+
+    .objetivo{
+        bottom: 390px;
+    }
+
+    .objetivo h1{
+        font-size: 22px;
+    }
+    
+    .objetivo p{
+        font-size: 18px;
+    }
+
+    .formacao li{
+        font-size: 18px;
+        bottom: 390px;
+    }
+
+    .formacao h1{
+        bottom: 390px;
+        font-size: 22px;
+    }
+}
+
+@media (min-width: 880px){
+    
+    body{
+        height: 1100px;
+    }
+    
+    .nome h1{
+        font-size: 54px;
+        bottom: 250px;
+    }
+
+
+.informacoes h1{
+    font-size: 28px;
+}
+
+.informacoes li{
+    font-size: 20px;
+}
+
+.resumo{
+    bottom: 560px;
+}
+
+.resumo h1{
+    font-size: 28px;
+}
+
+.resumo p{
+    font-size: 20px;
+}
+
+.formacao h1{
+    bottom: 440px;
+}
+
+.formacao li{
+    bottom: 440px;
+}
+
+.objetivo{
+    bottom: 450px;
+}
+
+.objetivo h1{
+    font-size: 28px;
+}
+
+.objetivo p{
+    font-size: 20px;
+}
+
+.experiencia{
+    bottom: 400px;
+}
+
+.experiencia h1{
+    font-size: 28px;
+}
+
+.experiencia li{
+    font-size: 20px;
+}
+}  
+    @media (min-width:1024px){
+
+        body{
+            width: 800px;
+            height: 1150px;
+            margin: 0 auto;
+        }
+
+        .foto img{
+            margin-top: 10%;
+        }
+
+        .informacoes{
+            bottom: 20px;
+        }
+        
+        .informacoes h1{
+            font-size: 26px;
+            color: white;
+        }
+        
+        .informacoes li{
+            color: white;
+            font-size: 20px;
+            margin-top: 5%;
+        }
+
+        .nome h1{
+            bottom: 310px;
+            font-size: 38px;
+            border-bottom: 1px solid black;
+        }
+
+        .formacao h1{
+            color:black;
+            left: 110%;
+            bottom: 630px;
+            font-size: 26px;
+        }
+        
+        .formacao li{
+            color: black;
+            bottom: 630px;
+            font-size: 22px;
+            list-style:circle;
+            margin-top: 10%;
+        }
+
+        .objetivo{
+            left: 110%;
+            bottom: 630px;
+        }
+        
+        .objetivo h1{
+            font-size: 26px;
+        }
+        
+        .objetivo p{
+            font-size: 22px;
+        }
+
+        .experiencia{
+            bottom: 550px;
+        }
+        
+        .experiencia h1{
+            font-size: 26px;
+        }
+        
+        .experiencia li{
+            font-size: 22px;
+            margin-top: 10%;
+        }
+
+        .resumo{
+            position: relative;
+            left: 0%;
+            bottom: 720px;
+            font-size: 100%;
+            color: white;
+            padding: 5%;
+        }
+        
+        .resumo h1{
+            font-size: 26px;
+        }
+        
+        .resumo p{
+            font-size: 20px;
+            margin-top: 3%;
+        }
+    }
+
+
+
+
+
+
+
+
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
